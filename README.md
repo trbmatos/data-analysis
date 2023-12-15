@@ -4,6 +4,6 @@ Esse projeto tem como objetivo gerar um ralatório a partir da análise dos dado
 e ao final, enviar esse relatório para o e-mail da diretoria.
 
 OBS: o código está comentado, pois acredito  ser uma prática essencial para meu aprendizado. 
-Desde já, peço compreensão nos comentários que sejam óbvios.
+Desde já, peço compreensão pelos comentários que pareçam óbvios.
 
 Desafio proposto pela Hashtag Treinamentos.
