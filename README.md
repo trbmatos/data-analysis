@@ -1,9 +1,6 @@
                                                           Automatizando um processo básico. 
 
-Esse projeto possui objetivo de gerar um ralatório a partir da análise dos dados de vendas de uma empresa,
-e ao final, enviar esse relatório para o e-mail da diretoria.
-
-OBS: o código está comentado, pois acredito  ser uma prática essencial para meu aprendizado. 
-Desde já, peço compreensão pelos comentários que pareçam óbvios.
+O objetivo desse projeto é, de forma automatrizada, gerar um ralatório a partir da análise dos dados de vendas de uma empresa,
+e ao final, enviar esse relatório para o e-mail da diretoria. 
 
 Desafio proposto pela Hashtag Treinamentos.
