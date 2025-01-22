@@ -4,3 +4,5 @@ O objetivo desse projeto é, de forma automatizada, gerar um ralatório a partir
 e ao final, enviar esse relatório para o e-mail da diretoria. 
 
 Desafio proposto pela Hashtag Treinamentos.
+
+Ferramenta utilizada: Python.
